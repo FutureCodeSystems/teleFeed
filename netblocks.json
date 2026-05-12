@@ -7,18 +7,6 @@
   },
   "posts": [
     {
-      "id": 1445,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Confirmed: A region-scale power outage has been knocked out internet connectivity across much of Donetsk Oblast, Russian-occupied \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e; the losses in service are attributed Ukrainian UAV attacks targeting energy infrastructure with near-total recovery now evident \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-04-05T21:05:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks"
-    },
-    {
       "id": 1446,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Update: The internet blackout in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e is entering its 38th day with the general public now cut off from international networks for over 888 hours.\u003cbr/\u003e\u003cbr/\u003eThe measure leaves Iranians without access to independent sources of information relating to the war or global news events.",
       "date": "2026-04-06T07:38:21Z",
@@ -108,7 +96,7 @@
       "date": "2026-04-12T07:38:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 35100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "date": "2026-04-14T07:56:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50600,
+      "views": 50700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "date": "2026-04-15T07:19:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47500,
+      "views": 47600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-04-18T11:17:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 78200,
+      "views": 78300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +216,7 @@
       "date": "2026-04-21T07:46:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63800,
+      "views": 63900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,13 +244,7 @@
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/H6-VmD9Nw0gaBp-xD3uXdg4VMOVsd8w5n4kty3-AGAB2YWCiR86n2eDgu6_F4175EKN-mVrj5mDevBRNQN71F531WTRQ9gx_14Yv9XVMec2ugWK5cwdulHXoL5thJqB0ikaMn70lLle8iPgnSGaSrciC_NUQ2sYYkb4ecL17-RYgw8PjLXWPj-e41jDjOkfKiYEHYi19xe-OJql20fLdGt8fCDHf07Nn7DcgiUInmFeN0pO-OrknHf2QDJV3A-Uqj76VJBI_J66ulEbeFkbFHlARRgEwSPNE3Tc6f50yXoEWrOb3krn545CrcJVgLf8Cgl5PRRP5O0PNhXIXEJgDmw.jpg"
-        }
-      ]
+      "sender_name": "NetBlocks"
     },
     {
       "id": 1466,
@@ -288,7 +270,7 @@
       "date": "2026-04-25T07:41:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 32800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +288,7 @@
       "date": "2026-04-26T07:38:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
+      "views": 32400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +306,7 @@
       "date": "2026-04-27T08:01:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41400,
+      "views": 41500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -342,7 +324,7 @@
       "date": "2026-04-28T07:27:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59800,
+      "views": 59900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -360,7 +342,7 @@
       "date": "2026-04-29T07:25:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32200,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -378,7 +360,7 @@
       "date": "2026-04-30T07:28:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38700,
+      "views": 38900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -396,7 +378,7 @@
       "date": "2026-05-01T07:45:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36100,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -414,7 +396,7 @@
       "date": "2026-05-02T07:58:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82000,
+      "views": 82200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -432,7 +414,7 @@
       "date": "2026-05-03T07:40:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39000,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -450,7 +432,7 @@
       "date": "2026-05-04T07:37:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -468,7 +450,7 @@
       "date": "2026-05-05T07:45:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -486,7 +468,7 @@
       "date": "2026-05-06T07:37:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -504,7 +486,7 @@
       "date": "2026-05-07T07:39:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -512,7 +494,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bZ6Gu7Rto5NCjedDxay1d8yFN93L2sdqb4A10KX3bulyRhaNgjTz1yJKoA-EJlK3-VQpGaPZOjR9FTMD4mPmyptb7AMjD3-PxjjbSpmmakfjRTjW1yXpETyQK0-lpZQAOj4BHy3M8cSuLvJr0O-yNqvXZxRYWWAbgT4WCGPXdq167js84hwaG5Pz_50EejeTwHSOIRj59CMNvE3436Td47SnkSK7QUdjSSKcCUl2ZC6fUVpPuHy5SVY1bdvsPIk-wPwaVEy_pkKAG_mhntnnNY9VzikWtfHQP_sEcnb_KgYRr5I-1waksukrhq1sd5ogIaAeBc7ih_Ka_lqKLoLYXg.jpg"
+          "url": "https://cdn4.telesco.pe/file/N-Hk_Irv0jMbdxZOqHW2aZbcBI7U1y4L6W4DFkyhWmfGicUOtdU6nvWtQxs8RUunTzA69k7bG5ORylQ_oxMWKApF4qKQE8xc9gPtkZfOapHdxCDh4Vrsn7k73cS3qtMNBSMre6f8-rmXgzotr3eEVJz_fB3Q3DSHCphCYwkaEQy3tmam2uXMQgJbJdNHSydg09Mahw5speHoIB3IKdS2wtcdMpVo3yaDn6PFq4C_FkMr0Ty68MmP38iqF93-I8a7aU55EqIyrf17NJKSWlj_81sU_oiyYXE3430OwImvl7Ksp2lZDyYqOQcbBhY-y4BgfJDAUqJxV7F71rxNkAzD9g.jpg"
         }
       ]
     },
@@ -522,7 +504,7 @@
       "date": "2026-05-08T07:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -530,7 +512,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CjVypSQcmYF6aRLL-s_Dnc6mTx3ZM3Pm5YyFNTd9bcvUMBPYXZfTgm_6P7iQpUY3chO7qqc5a8ELDvk2XIIYln5f5fQTcSkIzdFOthEqZhf_jHRvM6pszbzTZ7p8m4xJiY70rPnBAi3HokEcc1F_gIaKvXQg7-0ORkUK4xH1jn80PQiXB7py04ORNF0HW1KA5fbBTFD0iZJiEBZnCYxaGBDZmk00g71Kw_o6-yr-FpglCXOGPKUmpcBAhzQRfMCb9ndP0OANRvq4jbd1m7xM0oatHgLh2WYg-u4v0vs2QHO17HFHbVCblTnG2PvC3ffMs84fKrzVEHbSxCOPsoAqOw.jpg"
+          "url": "https://cdn4.telesco.pe/file/MhIQK7pquBXeMY2REhOc7ziiYziDxiPUFNj-nY0w9QHtfXsDqorgU8HQlxUIJtzTC3tPJNmGxQlRUww6VSApb9dbKddzaVLE4gScGvEmR3vNcxXmqk2_zoTVrvrL0yuvlZeiPrWakYYu-vvbbvZVCEYfAf38T6sm6W12XhtqoeoPOiKqKxxy622MrBlk3tG05KuIQl8CrIQ9Tb6mm0mYGQAdYnC51r0nEOUqMK4h16-toJ9dvFChbSvXhvtDEbQGFVK7_VnTjYt-1cZnEvItfubryqUmLbcrrLXM8GzU29P9Di8VvM-IyMVnOQD9WOHmvcc7361OWclToBhHsyJY1w.jpg"
         }
       ]
     },
@@ -540,7 +522,7 @@
       "date": "2026-05-09T07:36:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -548,7 +530,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rG40iVM9hCNYcVgUOrpky40EOoVqHFGYRKtfPgvkBTT6tyP5wG7aT-YUzjiTz4yybHuryta4TJrDYd0qa48Q40pVdX8LSJFlGzo2HSF2k2Z3prV5XMsrBeDWBM-kXfNyNvJR5toc_RX-6LrZdiB-0-H6aF71FUVVV7TbcdeA8baE6127IeHypqJLsXpGlAFvJOylyV8PXank6u-_8qUwv0QKRyLOvbTISZrFK_p86pRJxHIeOgeGqrDn5re3R1HfjemwKIFuX0mDn0T2nwD-n4IyLO7OiQrbhreJzAWq3r5THBhXA5li0k9dWy5TE_5l-m3CXIJpPfuYh1eQP31dlw.jpg"
+          "url": "https://cdn4.telesco.pe/file/h2IU8sDklCzp6U5iYbmfAsmKQYfgTv-kmR6OMqh78isqzyZI9G7alP44x_RH0z4maAXcsaepK9iTHrrJ-qkMfibSSYCtznDeA730ZZUsCSnm5BbXE9f6R6EpZmLwZFi2wH4xrC7Lhf5zhBAtXI90td9d3QBC6UoxEncBnmKCGDdjh6Jtl32toG_zR9ElD9zEfG49S-s1bXTnQstGkXnaPjr7qM4xvubY4g0Wd5QCOf1BaMhhGYIb-B6Lrm6tHgm4Gm87NfcRkiWtk8PlcNepEzOe5hUnFERfaBc_F1tfdU8W3HydlEWq4xsKFeVGr7R_OFMMtiss1gQs_G9CKbugnA.jpg"
         }
       ]
     },
@@ -558,7 +540,7 @@
       "date": "2026-05-10T07:35:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 522000,
+      "views": 536000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -566,7 +548,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HT61aRf7um3xuVUIZCfbDWb5bszevb_252euyikboIORbglPJLyEWWB0lm_uAp7X3K24fMXJ6letuVUHa5KdqvKjUv64lQkqo03tOLQvnmwOVgJyeNiZRJxvZRBrjym4D8MXWsQxKP9z3u3LSuT6Yyg6ViNtZcHqQp8WZQ1uI07sM1OX4VD8rT9CmrUDmC_gWLCtciht5Js_tXLKntbw21U3-xzGPy1zzPUZ7CvJCFPsSHDDnPS5ta96IU7Xrn2r9LKtYDUwl7xcQQ00xS8KSBkpd0o3pI5CuksCA7rvdZ9tjQSWKszDwIk4aZR-41tM2p0gwU-1ZJfrM3cV4n90Gw.jpg"
+          "url": "https://cdn4.telesco.pe/file/uUWEwQWdmen52o4cCS_ImqmTDJjDA4n1l5ct_lodDLwOxSLBwprLUNjYx2aNkVfKsuIinGbdnOXAiIDj4-DZkKQdmV86au1f_sY2w1D5OPv0gRPtbEVV_pqsGXnWPwvphqSKaliUz_dIQ8rkVbY6CHVHfakAmptW4PxR6_mI_eQ3aB6ebRtpNgVF98sWKA9cyEQMfzQcTvZicddowhyovZKhpq5PnMVC_woalnX35LSvUbmHOr0N34cI1By0Jmn0h1evkj8IR7kJLA_FX9kZXBNIcuhk5CAbwcetfHr5AoNV4TG1SM0uVV14qPhXbdiQeiATDyjPXOHd0vxN189PCQ.jpg"
         }
       ]
     },
@@ -576,7 +558,7 @@
       "date": "2026-05-11T07:52:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -584,7 +566,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kMypjnUZq0jouFL_yoXDpL2X9Wz50aMcGzvReREmlrfmkzC4E4QXyXVvwCkls5oWqo-_WBTmJ9F7y0CGsd7PtJ0nkfN2_xX3Et8kjUdqqwTQQhUCn-muVZCLdfQ_Sr7nk8ginzOos5e8ilzM4vsQKCrqW4VpGZRVdTXP_vH7IpMqZ2IM2f6dWuz1KjdgZgJ19R11MlBEQ932AGfQ-ZAcLebVGD46Cb2dBSZoWa7dipETQuGosTiZ4X794QOrnXnImNGpdBqN59HDiEmj0KPzOA-Ci421OABCiMN8BSeEc58BcmzVhcgldLLvdzAae0yvPwCWMbS0-qV0l7DKf6i_Qw.jpg"
+          "url": "https://cdn4.telesco.pe/file/AxknQ6f2vZW0v1emIqt7BSSuQKsgdiXslSRzM2LY-I5gMdYDZmckqX0EhyWlXxMWYrzhfdetrEVzfPM7KTEHm6gvEXvpp5hhUdQOzqnnVf2FslydJHbI2q4CTXsGhO_KGWbu6nzLA88oaLitKGDaAYGMVormhGz8fRgWlY4C0Z3aso9kaQfQyi-v6vdiGZwfShLCeeUnAudPy7ReXqexXIGcK3Ra7s2IJ65j_wPSGapSscqSqm74x98Q_y5_eJHfxKtD3qibaOlwY7Qh7GGtbLu32-35NyEEWzkP89oAxt3_Uh8mulVLyhIISjR9YdPuHVHFqTbIaJSXCUky6ZBdxA.jpg"
         }
       ]
     },
@@ -594,7 +576,7 @@
       "date": "2026-05-11T19:56:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5030,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -605,7 +587,25 @@
           "url": "https://cdn4.telesco.pe/file/gNeFPv1WDlyR0qK46P6tL3KTjNsevfwAC431WAjY3JTI17JEC9kegnEfpkCziOYTkdJMtzIqfndLHlp_aPEK6ynS00ca-IQiIpuGjCZhAaMdIxoaaXzOJvmIY--thzH6oP4QmMoNCBe8v5zyh_lxee39Po_a6T9vQWymtpCOyEP86iafuTaM7fYbptEcFB-xCec0NA4FK4_RMizyqNcQ-ewPCtxAlZzC2EvmxYVmcTqb9kW3_Tg6K9pyM0TcSNK3GvQlIuxwHC-JSnLPiHIVvlRQqobL93K7qhE4TFA0Jqt_e9mP4LOAF4AU-A4dH6l45hC2PzmgH95y4BLvYvDgXA.jpg"
         }
       ]
+    },
+    {
+      "id": 1486,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B0.png\u0026#39;)\"\u003e\u003cb\u003e🕰️\u003c/b\u003e\u003c/i\u003e Today is the 74th day that \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e has been largely cut off the global internet, with the incident now passing hour 1752. Since 28 February 2026, the world has seen advances in science and technology. Meanwhile, Iran\u0026#39;s regime has been arresting and executing technologists.",
+      "date": "2026-05-12T08:07:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/m-Xo3_SQx_B3cO8ofjAYFtUsoEvwcHnwVW081XFTtmQuHjxZIDyEFg4YRTuwHCvxFEE9AOgI2GZMwh-E92D3OwPAAVKuKen8UMAKM0RtuxpJ2MPIvZXjuK1hDVD8X80_-OA8DqaDuq-TuwN5YK93OqMoDBxn-EfHaC7V8rq4MUWB6Fmb4ZrKlpC6s673P9moJVQQJ2LyJ1VVmW1w3Gi1h8gPkDqpkY19gB7nSxx7Yw3nt_KVczBFstjt1e11VjeUMptEI6FR20uWKlxrH-4ozMr99SiEvGW9f4phYGQA9kxyiLsB0bDfxT_Chh7HUmcuZd2X-9GYendx4XvjDFnq0A.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778566324
+  "last_updated": 1778577525
 }
