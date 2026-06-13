@@ -72,7 +72,7 @@
       "date": "2026-04-14T20:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 362000,
+      "views": 363000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-04-24T17:43:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 668000,
+      "views": 669000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +249,7 @@
       "date": "2026-05-27T20:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793000,
+      "views": 794000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +268,7 @@
       "date": "2026-06-08T16:37:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 644000,
+      "views": 645000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +336,7 @@
       "date": "2026-06-10T10:38:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 560000,
+      "views": 561000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -354,7 +354,7 @@
       "date": "2026-06-10T17:32:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 816000,
+      "views": 818000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -380,5 +380,5 @@
       "sender_name": "Reza Pahlavi | رضا پهلوی"
     }
   ],
-  "last_updated": 1781388014
+  "last_updated": 1781392417
 }
