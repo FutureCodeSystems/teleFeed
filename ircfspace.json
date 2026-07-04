@@ -216,7 +216,7 @@
       "date": "2026-06-23T04:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
+      "views": 33200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +264,7 @@
       "date": "2026-06-23T05:18:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +330,7 @@
       "date": "2026-06-23T09:32:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47800,
+      "views": 47900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -384,7 +384,7 @@
       "date": "2026-06-25T14:59:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37400,
+      "views": 37500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -510,7 +510,7 @@
       "date": "2026-06-30T04:06:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -522,7 +522,7 @@
       "date": "2026-06-30T04:14:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -541,5 +541,5 @@
       "sender_name": "IRCF | اینترنت آزاد برای همه"
     }
   ],
-  "last_updated": 1783194207
+  "last_updated": 1783198273
 }
