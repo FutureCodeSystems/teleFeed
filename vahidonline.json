@@ -12,7 +12,7 @@
       "date": "2026-07-31T18:30:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 386000,
+      "views": 387000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-07-31T21:00:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 449000,
+      "views": 450000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-08-01T06:26:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 515000,
+      "views": 516000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-08-01T06:27:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 493000,
+      "views": 496000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-08-01T06:34:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 545000,
+      "views": 547000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +156,7 @@
       "date": "2026-08-01T17:50:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 542000,
+      "views": 543000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +168,7 @@
       "date": "2026-08-01T23:42:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 470000,
+      "views": 471000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +180,7 @@
       "date": "2026-08-01T23:58:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 478000,
+      "views": 479000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +192,7 @@
       "date": "2026-08-02T02:20:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 523000,
+      "views": 524000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,21 +204,11 @@
       "date": "2026-08-02T13:44:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 403000,
+      "views": 406000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Vahid Online وحید آنلاین",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/VLbfxRJbndtqji9C4Rt4SezZ8LJhDLIgbKgXuvEqeJFVKS89gJ4ATKSpa60BMbVrlKjYHDt49yxL9em2XG_yXXvM5iBfrKC35g4kad0H4Y0HzgT816zKc1e1XJtgzw8EehqEMs6FuuTlXU1Gw5E8yk3uGGvAfyotm1nVETxacYVpstpKvIGOQ7AycjzxUGqsjhHRH1IECYNIzUBmJGaAE6A1sRY0-avzV1fdFTGnFZQBhtnkdJOcOjbze4izphdO8qPgiGSxhdt5KCsQxk0Aihp-OqYwOz3XLd8WtBCxBmxl78iYvtO40t-B5Vgw4MMNnRHeD34fK_Bf3K87bTL3cQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/nAAjjwzxbQ4DIvdybuSnntWH0Izb_fnIxwLi-vI2OtYQTyMI9bDESq91sTCpRx0bs0sGEHicuTeP1cAySDfubWwXBgjpmfyT0GRcW2VEtgWQ1f28ST1blS7ktpIYrnZ9Hcjp50jEfMWwMrY4-J--iOb6mEJpJKAOSKgZVhLb3MZ8MUpK2WiKgC0U56e1lTz2ESos7ULRbR4NcGrZgecjL4IJZ4QfGkd6AqzdGAYR9nJxo7lWXlieDCrG4uOT5dLMSsqv7bAGdNPLbnWvxvk6tpumUhCvRqCQFvaCrMOz0VgHc2-4XUgogQtfiPe1yRiWr8Il_a4v6Vgj1TfSMVrSDg"
-        }
-      ]
+      "sender_name": "Vahid Online وحید آنلاین"
     },
     {
       "id": 77706,
@@ -226,17 +216,11 @@
       "date": "2026-08-02T13:46:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 416000,
+      "views": 418000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Vahid Online وحید آنلاین",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KK0bwzGAUZAmfuxBmpsIOWHzwiEBN_J2pEeShkHYaYc8DcAfDjNw_lresqc83XwMTd-5A99pF1xA99YGcrUlkKKRXG6wJk-ZhLcFfLfAtAKNcW-A_BegAvaQRyECucxvivtkUxrZYKXX7nWCNM0GK4XAq8VRNfVxCedmIIK-QZyrQZZ_w7CV9AP6HODRNT8Wn8vgrfvCqFFKK8EhCuemTcYZjXP4ZIyZGt7hYcV1iL-CMjSZEUL7_Zu4efbIHHMv6sCCHZGq_D8BVOuQhliXH9CQBE6uc-HBwm5anL_zn8rAAKy3mKXI90DF4pF-lHN8E73K-COCybGUv76ekMyMjQ.jpg"
-        }
-      ]
+      "sender_name": "Vahid Online وحید آنلاین"
     },
     {
       "id": 77707,
@@ -244,7 +228,7 @@
       "date": "2026-08-02T13:46:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 419000,
+      "views": 420000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +250,7 @@
       "date": "2026-08-02T19:56:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 382000,
+      "views": 384000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +262,7 @@
       "date": "2026-08-02T19:56:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 400000,
+      "views": 402000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +280,7 @@
       "date": "2026-08-02T21:51:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 402000,
+      "views": 406000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +299,7 @@
       "date": "2026-08-03T13:43:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 259000,
+      "views": 270000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +317,7 @@
       "date": "2026-08-03T13:44:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 206000,
+      "views": 215000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -351,7 +335,7 @@
       "date": "2026-08-03T13:45:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 206000,
+      "views": 214000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -369,7 +353,7 @@
       "date": "2026-08-03T13:48:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 206000,
+      "views": 212000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -387,7 +371,7 @@
       "date": "2026-08-03T13:49:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 226000,
+      "views": 233000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -409,7 +393,7 @@
       "date": "2026-08-03T13:50:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 238000,
+      "views": 246000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -427,7 +411,7 @@
       "date": "2026-08-03T13:52:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 255000,
+      "views": 263000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -445,7 +429,7 @@
       "date": "2026-08-03T16:16:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 227000,
+      "views": 239000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -463,7 +447,7 @@
       "date": "2026-08-03T16:16:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 230000,
+      "views": 242000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -481,7 +465,7 @@
       "date": "2026-08-03T16:16:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 265000,
+      "views": 279000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -499,7 +483,7 @@
       "date": "2026-08-03T18:16:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 234000,
+      "views": 258000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -517,7 +501,7 @@
       "date": "2026-08-03T19:38:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 184000,
+      "views": 222000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -529,7 +513,43 @@
           "width": 640
         }
       ]
+    },
+    {
+      "id": 77725,
+      "message": "UKMTO:\u003cbr/\u003eسازمان عملیات تجارت دریایی بریتانیا (UKMTO)  گزارشی درباره وقوع یک حادثه در ۲۰ مایل دریایی شمال‌شرق الخصب در عمان دریافت کرده است.\u003cbr/\u003eیک کشتی باری از طریق کانال ۱۶ بی‌سیم VHF اعلام کرده است که با یک پرتابه ناشناس مورد اصابت قرار گرفته است.\u003cbr/\u003eمقامات در حال بررسی هستند.\u003cbr/\u003e\u003ca href=\"https://x.com/UK_MTO/status/2084425228793401786\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eUK_MTO\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/VahidOnline\" target=\"_blank\"\u003e@VahidOnline\u003c/a\u003e",
+      "date": "2026-08-04T00:00:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 72100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Vahid Online وحید آنلاین",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/HRxdKQxuXSSWHFjc1sOSfbP-MPtlY_OaTbarGXdgOemZXJvIhuZ37GFoqkewYZOz6mJeXtYAubIF-tTRzTIOm121N5PxAUavSglzShW8WcoMYQBKgTBHyrmsag9dEOTVDYhlMyqnTZp0ytBKoEEE-P0WefLN0QNHJVF2ln-cqNm8mcxhDd-2oglahZXcBNu2WTVzHb8jahiXS5_ZGbT5Fk6jTJg9ZNVPXWRZm-K0u2YzlbYbgFLsxV_fmgn1VtWLkfJ7ZtkrZ88L7Kph0BY3dU4gDrHhKlbBFPwfULVqhEH2UwtV_j7mPRNwEMgLABbiqFXgVLj7vR3k3jsNVJufeA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 77726,
+      "message": "نرم‌افزار پیام‌رسان «تلگرام»، روز دوشنبه، به‌طور ناگهانی از فروشگاه «اپ‌استور» شرکت اپل در سراسر جهان حذف شد.\u003cbr/\u003e\u003cbr/\u003eبر اساس اعلام کاربران شبکه‌های اجتماعی، جست‌وجوی نام تلگرام در اپ‌استور با هیچ نتیجه‌ای همراه نیست و \u003ca href=\"https://apps.apple.com/app/telegram-messenger/id686449807\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eصفحات رسمی دانلود\u003c/a\u003e این برنامه با «خطای ۴۰۴» مواجه می‌شوند.\u003cbr/\u003e\u003cbr/\u003eاگرچه این پیام‌رسان روی دستگاه‌هایی که از قبل آن را نصب داشته‌اند کماکان بدون مشکل کار می‌کند، اما امکان \u003ca href=\"https://telegram.org/apps\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود تازه\u003c/a\u003e یا نصب مجدد آن روی آیفون و آیپد فعلا وجود ندارد.\u003cbr/\u003e\u003cbr/\u003eتاکنون هیچ‌یک از شرکت‌های اپل یا تلگرام بیانیه رسمی درباره دلایل این تصمیم صادر نکرده‌اند و مشخص نیست که این اقدام دائم است یا موقت و آیا ناشی از بررسی‌های قانونی و محتوایی است یا یک نقص فنی.\u003cbr/\u003eپیش از این نیز در سال ۲۰۱۸ اپل برای مدتی کوتاه تلگرام را به دلیل «نگرانی از انتشار برخی محتواهای خلاف قوانین» از اپ‌استور خارج کرده بود که پس از اعمال اصلاحات لازم، این برنامه مجددا بازگشت.\u003cbr/\u003e@\u003ca href=\"https://t.me/VahidOOnLine/253600\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eVahidOOnLine\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/VahidOnline\" target=\"_blank\"\u003e@VahidOnline\u003c/a\u003e",
+      "date": "2026-08-04T01:32:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 29500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Vahid Online وحید آنلاین",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QBTEXic92ypVXEM0mUu_SNcuTV6e4yJ4xVr2bch0KX98-0bvPjDq5WnjA6Y1m6q_4oCRtaEStSXlY_QZUUkxKKLeae5ivqjj4CI2BrE9tvBmjBgbi5oSqNw3Fi6fsHAG1cpo76bdTHzYq5uW3ndZddO4pllKRaeF6jzfg6LyuR39AnSc25GcErXOdyf3JBVzsz3Gb7DFI4Zmc7B6jPoDm4-Gnfkw0OEYXHZv0-mroT0-KMBRcUguirpp1WOGTasKpXtfC_SDKazycsIDGc6cbRwvip7oXMoJFpOj47U0FuyzNi7hxAK-LDCGGDbv0RNJhdfBuqGH93mKuFeJx5OtIA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785800054
+  "last_updated": 1785808981
 }
