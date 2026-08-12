@@ -7,84 +7,12 @@
   },
   "posts": [
     {
-      "id": 2507,
-      "message": "نسخه ۱.۳ از پروژه متن‌باز و رایگان Aether منتشر شده و مهمترین تغییرش اضافه شدن حالت اسکن Ironclad هست. برخلاف حالت‌های قبلی که فقط بررسی می‌کردن یک اندپوینت در دسترسه یا نه، این حالت قبل از اینکه به یه سرور اعتماد کنه، یک تانل واقعی برقرار می‌کنه و یک درخواست HTTP از داخل اون عبور میده تا مطمئن بشه اتصال کار می‌کنه. البته این روش زمان بیشتری می‌بره، اما در عوض احتمال وصل شدن به اندپوینت‌های خراب یا ناپایدار رو تا حد زیادی از بین می‌بره.\u003cbr/\u003e\u003cbr/\u003eتوی این آپدیت روند اتصال مجدد هم هوشمندتر شده؛ اگر ارتباط MASQUE یا WireGuard قطع بشه، Aether دیگه برای دور زدن فیلترینگ مستقیم سراغ اسکن کامل همه اندپوینت‌ها نمیره. اول همون اندپوینتی که چند لحظه قبل روی اون متصل بوده رو دوباره امتحان می‌کنه و فقط اگر از دسترس خارج شده باشه، اسکن جدید رو شروع می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/CluvexStudio/Aether/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/CluvexStudio/Aether/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-20T13:23:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
-      "id": 2508,
-      "message": "فیلترشکن Aethery برای اندروید یکساعت قبل به ورژن جدید از هسته Aether بروزرسانی کرده. اپ Aether-GUI برای ویندوز هم کمی عقب‌تره و ۳ روز قبل بروزرسانی کردنش؛ البته احتمالا بزودی براش آپدیت جدیدی ارائه میدن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/ZethRise/Aethery/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ZethRise/Aethery/releases\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/MatinSenPai/Aether-GUI/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MatinSenPai/Aether-GUI/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-20T13:31:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
-      "id": 2509,
-      "message": "سایت فوتبال ۳۶۰ عادل فردوسی‌پور توسط قوه عاقله فیلتر و دیشب چند دقیقه قبل از شروع برنامه زنده از دسترس خارج شد. \u003cbr/\u003e\u003cbr/\u003eهنوز علتش بطور رسمی اعلام نشده، اما این اتفاق پس از درخواست سرمربی پرافتخار(!) تیم فوتبال جمهوری اسلامی برای برخورد با این برنامه و یک روز پس از جوابیه به امیر قلعه‌نویی صورت گرفته!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-21T07:43:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
-      "id": 2510,
-      "message": "اپ ShineNET VPN یک فیلترشکن رایگان و متن‌باز برای اندروید هست، که از امکان انتخاب هوشمند سرور بر پایه هسته‌های Xray و Aether برای دورزدن محدودیت‌ها استفاده می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/shayanheidari01/ShineNETVPN/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/shayanheidari01/ShineNETVPN/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-22T14:51:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
-      "id": 2511,
-      "message": "ساترا گفته نقشی در فیلتر شدن فوتبال ۳۶۰ نداشته و قوه قضاییه اعلام کرد مسدود شدن این سایت ارتباطی باهاشون نداره.\u003cbr/\u003eوزارت قطع‌ارتباطات هم طبق معمول نقشش فراتر از هویج و سیب‌زمینی نبوده!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-22T15:25:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
-      "id": 2512,
-      "message": "انجمن تجارت الکترونیک ایران یه بیانیه داده و نسبت به تعلیق دامنه فوتبال ۳۶۰ در رجیستری ‎.ir اعتراض کرده.\u003cbr/\u003eاصل بیانیه قابل دفاعه، اما امیدوارم برای کسب‌وکارهای کوچکتر، استارتاپ‌های کمتر شناخته‌شده یا پروژه‌هایی که بدون پشتوانه رسانه‌ای قوی دچار مسدودی دامنه یا محدودیت میشن هم کوپن بسوزونن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-22T15:33:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
       "id": 2513,
       "message": "تبلیغات تلگرام ابزاری شده تا بعضیا مرزهای بی‌شعوری رو جابجا کنن. \u003cbr/\u003eهیچکدوم از تبلیغاتی که توی کانال نمایش داده میشن توسط من ارسال نمیشن، به هیچ‌وجه مورد تایید نیستن و اگر سرتون کلاه رفت یا امنیت و حریم خصوصیتون به خطر افتاد، مسئولیتش پای خودتونه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-07-22T16:26:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43100,
+      "views": 43200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +24,7 @@
       "date": "2026-07-23T15:30:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43100,
+      "views": 43200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +36,7 @@
       "date": "2026-07-26T14:24:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48300,
+      "views": 48400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +60,7 @@
       "date": "2026-07-26T14:50:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +72,7 @@
       "date": "2026-07-26T15:03:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +84,7 @@
       "date": "2026-07-28T04:08:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +96,7 @@
       "date": "2026-07-28T04:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +108,7 @@
       "date": "2026-07-28T14:36:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +120,7 @@
       "date": "2026-07-28T14:43:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +132,7 @@
       "date": "2026-07-28T14:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +144,7 @@
       "date": "2026-07-28T15:08:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +156,7 @@
       "date": "2026-07-28T15:27:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48500,
+      "views": 48600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +168,7 @@
       "date": "2026-07-29T15:52:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41300,
+      "views": 41500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,17 +180,11 @@
       "date": "2026-07-30T14:41:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GBvYVUfTBDrg5d71VPTcsOCvnR9UYJHRIQBq_r-vGO163HaTm-9C9NBVA94stDBykXRxwmfHyNee7ZypgiHRso8UYOrHuuxgm7YaH2_8FPbqbTSfLwUotG7zYU18Ac2UdsSfHQZY9BE5Wyj6cycnAM1XFEi5oda9OXtrtBfu9n72Hxjy7CZeeBptwKrtq_PQNBr1daJPtzbjuGurz5IgS-Wio4qQsQFKiW_APaCwbkPPV7Fhm3U7OZQRo7JA4pH5-JdD4kJ5-6iIvLFvbQRzEHcHZpNo5YBbDCEuP6KiOAWhMXcMJGvacE5sqNa7tdzXb5VW95PhcH7ACAqD6HTRyQ.jpg"
-        }
-      ]
+      "sender_name": "IRCF | اینترنت آزاد برای همه"
     },
     {
       "id": 2528,
@@ -270,17 +192,11 @@
       "date": "2026-07-30T15:00:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BHP8HkX4nLOlwwgy6Doyh8BYLunbKHq4a3QrQ0CKHdiHGOtjAO3GoV6m3goM2FG9GhhMa67AZCWFfdmNFnFLBthoaubtokwz24MTB5KsAhzthyga804jeNQwLP5Qc-ps2kBQ2_GULeGQg3oP2lV82Lz_ciiMy8sqfT2mm9z6ONjW0i7PzAoHBhZ_DHOnlRyqeA-CtcreQSq71rEJ8XAjbvRYQYHD1Yy9jqofn3DIXfl8eMULDZy9bbcAYGaeu33uRIiP8P2V31OVu2dBDeTP0gm5Kc1BGj702VObWBubQYZubRpQrhSDGyuAsGY9cZAL6F22rRFDWG0SqB71wGbzmw.jpg"
-        }
-      ]
+      "sender_name": "IRCF | اینترنت آزاد برای همه"
     },
     {
       "id": 2529,
@@ -288,17 +204,11 @@
       "date": "2026-08-02T15:41:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/SnJrU4aryCete2PjC_eVMLYTXIJdUPO5brlxp-rQWAHOi9gy6SJ9R8WErKujNYgVPvUDKPXsT8zX92xl9Lrel7jG7MVtoKsawsWEB4FODEqH8_4DXiqHiCFrv1K4OrCREW-JziAn6PyGrE9RN6WM61G19PlM9eNOWzq7OWxKpYPO7xaVpEZrJjfJdJ_AWIa6QeT-LvbT3iBCwbSfZLl6pZqOdV78pJwGbEYo4y6E10HZh4SxuzjVqbmKXxGUZvDU-_JTkE_3gi0YYFnEktpdHUoYlQVgBQPHh60_PkGtGY6R51_DDkkAU7ZYiK1-09sfFbE9rV5jdGMWgruaTkBDzw.jpg"
-        }
-      ]
+      "sender_name": "IRCF | اینترنت آزاد برای همه"
     },
     {
       "id": 2530,
@@ -306,7 +216,7 @@
       "date": "2026-08-02T15:54:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +228,7 @@
       "date": "2026-08-02T16:11:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +240,7 @@
       "date": "2026-08-02T16:18:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -342,7 +252,7 @@
       "date": "2026-08-02T16:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57800,
+      "views": 58000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -360,7 +270,7 @@
       "date": "2026-08-02T16:30:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -378,7 +288,7 @@
       "date": "2026-08-02T16:33:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -396,7 +306,7 @@
       "date": "2026-08-02T16:44:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -414,7 +324,7 @@
       "date": "2026-08-02T16:56:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -432,7 +342,7 @@
       "date": "2026-08-03T13:42:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -450,7 +360,7 @@
       "date": "2026-08-03T13:46:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -468,7 +378,7 @@
       "date": "2026-08-03T13:49:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
+      "views": 33000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -480,7 +390,7 @@
       "date": "2026-08-03T13:55:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40800,
+      "views": 41400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -498,7 +408,7 @@
       "date": "2026-08-05T06:58:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42700,
+      "views": 43400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -510,7 +420,7 @@
       "date": "2026-08-05T07:26:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37700,
+      "views": 38600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -522,7 +432,7 @@
       "date": "2026-08-05T07:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40000,
+      "views": 41100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -530,7 +440,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Jqjwe7s3QL5RmZ9C3p-Nyg_N6CYVZF7Bw93jgSo78CqDw1tcOKmbNbPBAZxDf5Dz3x9yt_HsV5s38dkCXRf0GMkTf9PKx511oOBkaiH87cm43bMiNTUfAU74txzMnF7SiCt9clLhm2seFrzQp_0OcwCcMfaXRjb1vMzaAuio922dn0AxRXbz64bVZdCZBsGSMQxInzL3ZyHv4kFa_blhkEIkv6BI4-Ow-dpBEhSionTD6hKEOnQs_0SurTofLLTdAW0rzgdAJH6Qz388Z9I_2QOMVjE_XLIOXTL-fdn94Z02bQbFVg6s5tsT_yPagi8fDJNNIWvdOCRgw2n6SPyktw.jpg"
+          "url": "https://cdn1.telesco.pe/file/Oyi1YX4ISbU2jduUae-Cre3Ie0qjoD_FJ5Xt52EGxC-PxChyrmb6DZN77KjAnsItBz5tQf0lDjwTWDpcvPSygjBMF1oTGBRNg1yu3zInHl41cx_orS5TzWXaWE4l8QNdg_y0i73Vd3ORcEI5UXkCsK8N9Q90yc6MezhSoXhKdVx8x85ZqeAEyvkNBjCy9136qbKi5ekMy0dE8YQe41KFpagn_aJo1mpoinnib3DVM7djCXKnzgtUYspNEXDP6GL6_Mo1ZdVQ6eV3wVhXOSFIFPj7IOPt2cK0in_3aG_ixnOycLAjQosMjNA2oEGHwEccINFj-UyvRLn4rcVLzNfWog.jpg"
         }
       ]
     },
@@ -540,7 +450,7 @@
       "date": "2026-08-09T07:28:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -548,7 +458,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ODSm-_-QstIyHAvPa66EdXLYfbRI5BO8TnsW8xUuLL37Ok2HiLhkwykJ2orEaj4SHGFvrypeHN8xG-Ec3ynErRFdtr7W-bvze8OkOamcp9nzDSB8tmDo33KYz0dXZGyBfojnMYQ178rhFLGK1UG6a9QAbFBKo65MLFVTqZAuVn3riRamObuROSZPQT9SWqQYkGox_JGJDySLbaQYwHXXr4eektPJ4VPKIK8a5kPsw8SPshvpHSwS3WgwBu7wUZQrgaTYbnXpxMYe33fiu2PgF3Hts5Uy2Lh57Xsg9FmIoZCoX_hG5TXVnzh4EABlj0UHYtTTztKW4ApmC0EYyql_Ig.jpg"
+          "url": "https://cdn1.telesco.pe/file/wB9coBKpGGn_6eRqowRj0Z8ZZDZTtbIL2XxohJ5gopt0EE8n61gtust0nXUrOx9AR2ov-ZgRRDqq_fosPotfgonBbemdp250-vrEPdc-46u5Rz2CvxgA_HKvx06h1h8hjQ4Z64ryzVttWM0MOVkWhDZUehZCbHZaOC65rWw32zqLZu8dBLUeVR-x3H9zO4DntqJqpFf5hvD77jHpvjLOt3A00Sy-v6OCW9_8VnVwNf7r9rJBro-FnAi-C1WkdCbEsJSzqcuF1nwQki-PaXeuXeMOFfq8cPUKNOxPDou2sj9ZrdO4oLOlzQQZZXOVQiVPvueobNQh_W7dH-cYNLnkQw.jpg"
         }
       ]
     },
@@ -558,7 +468,7 @@
       "date": "2026-08-09T16:21:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -569,7 +479,116 @@
           "url": "https://cdn1.telesco.pe/file/XVA8vaYF-E0aCrET5mKHFk0d6KZSfH5Cy_xJ3Hh7FzYt9OJ9MuMkZVZ-5gJYx5bHNbRkewbh4Sfd69wfJ_AcYIUiFLDLs8hTgTo8wqnxCmt5iLI5yytiKeDKkfjEK6HGL7z5KM63BQTZd-V6SE7L2zV_x-v6qFEvMMRK9oN0rqmnobSqvZQEfPckoysZYQsaHA-MY9IBXn9b6AF6Yg7EVEe86xLrLkrR6PUxyiW8APUZlhag4sX2KWx8LtJGP79hy7Ac-BTOJCMeGV6h1fHN_G-he08ym25DQVnxFXMlE07UHXQHWz1hOzbP3Kd0snGW56ENCAZDln-xr-f9wWoslg.jpg"
         }
       ]
+    },
+    {
+      "id": 2547,
+      "message": "همزمان با قطع سراسری اینترنت و نابودی هزاران شغل، هزار میلیارد تومان به پیامرسان‌های رانتی کمک کرده بودن! همون پیامرسان‌ها در عین دریافت پول بیت‌المال، اختلال داشتن، ثبت‌نام جدید نمی‌گرفتن، محدودیت‌های تازه گذاشته بودن و چشم‌وچار مارو با تبلیغات کور میکردن!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-08-12T06:06:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kwVda6DbKUuzoeqeDvSK1elVtWH4Z6PJI8lKM5eZ66YhHCHwilVKs6fJ7E1Lngxv144Kq6y2LaUt5B2DPi0SEKbKXQsJNfanUxPK22dnmeJeACLTqXGfhLleDqpW4mLqyZJFzhIr5zwqSmHUe5xlr49Vp-d2Lt9h1euWh7YDq2RPu9lxV40OMXbvnzt2BZ-n54uPB0ph5LRGNZow2jNAu3oFWm8dr8qpj5jvA6XK49tocqSf9UJpTE5lOsBTePIFMezKp6FZKqQLFCWcewOENDRyJfbadVX5BlKqajKBlvqd_c19D8d3WZcABxDn6HFDssQN1VVgpxi8TYIMItM2Zg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2548,
+      "message": "پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!\u003cbr/\u003e\u003cbr/\u003eیعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-08-12T06:15:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/gJksTwXJ4x0Tvn8heJrB42CJhBNBMCk3yCKPyDAetwpKkJAGjsAWNRL8CI-SiyuAdAJ_8N_MZgrEbUlLLHdDblNEqd3bXtOrFdtwf1Q5YT3fNXGQ50SsLkPFBWbED1ihqMPtXN9ZsCnhQz5fknkJ-8lTa7qe4BeZnOGLIhmPcjG2zX-s9hxbnvOS8eAwooJrAak4AM3nA5Afz6xLesO4oEQptbuavkMyKcIVjrZ2qzgcbqkiuFujln6X96rWoRso2i1d9z1hricA9mHQnFjPxV_6iP8hD9FPv2NQRMfFhIzQ-j94n3zd7eE6PBTE1N5Md12fglMWv3D1esDUyinPFA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2549,
+      "message": "از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟\u003cbr/\u003eهنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته! \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-08-12T06:17:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/SGC5sC9luZKAatQLd8mJ444_NaPnb-YCri1dZq_2QIRSG-p3e4KYpyFk87uY2xsoAmb0_4kmSbHuKSqmp_Hd-TZR74Agp42qrvmdS2garR2KlYA5IiWxKPJVboyaloosX0-ex8ON76PTso407E8HSfhOAf_M33BdQIcr7aLElQBHTBM7nTFYz5FcPPZRU_hnlAQPFd-S26GPOkM88InjVJaN1I4aw-56P60zLLJJOD164j-HplvT8ezpCduMQFqBBj7YU3l0KvlmDcJX57_auFCzCpXL2niLB9Qgp-qJ0FBwSt5F1vLaSD8UsQddDuZEL65XS5nsQsXeAU6S5veyuA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2550,
+      "message": "معاون ارتباطات مخابرات گفته دستورالعمل جدیدی برای محدودیت VPN روی اینترنت ثابت ابلاغ نشده و ممکنه از مشکلات فنی شبکه یا نحوه عملکرد خود فیلترشکن‌ها باشه! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدر رابطه با اینکه اختلال‌های اینترنت وضعیتی فاجعه‌بار دارن که جای صحبت نیست؛ فقط اگر بدون دستورالعمل دارن گند میزنن، یعنی دیگه خیلی کاسه داغ‌تر از آشن!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-08-12T06:29:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/H4GKiPBZbpnXQRokAhxvg1FNE1rXIyOe7RHEW5RR9X4eCy7Gxsta7e542V8fwWyWiZTaJdmZe4miqW_pkvZiOsF0gUVzvKf--nqTnKcu6iYLo4iF9eE2LeM2Ybu4X_Zypo6veLX152vl_VJQWOFMqAuwlcT-pkkoeIUnFl77lu8qW63jkcLI2raPOZhgLa3mIO86etT-dPks3qHmXzfHLEEFVNg-O8IPLwXmEfeCUqVWIpG-SbQ5_7Vu-dZKwkNSBVbmG35tE4XIEJ9DN2IQDfTdrEdMV0iZ6cSnYByIAjITygZ4PlDOxPQGm-WlK09ElQNd0fzOHPJN0gi1CyLT3A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2551,
+      "message": "اکثر آنتی‌ویروس‌ها (از درپیت تا لاکچری) سایت بانک ملی رو فلگ کردن، چون سرتیفیکیتش منقضی شده!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e Teeegra\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-08-12T06:38:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WnTe88jsXlDJX9wraW15_J2d7QbimMxfnQ-n9ZIS_OuhkLPa0H5njCIfDGpwEPmUp47obK6Z5dzZRkbmruc8HBBh3TR2yUVrRiKfiXMnUiZylJR6cLyVIuPbTvp2N0oJrDZRbiGqektfPLEaMky9_iunhTBtSXZz_4A2W9L0B-SRrdw3ghaBnX8lEvTkfzysuIoKcrh6_dmu444nw-dk0D11KOkWG-ZZzhYhAonOIFSEEjAVkCmag7a3izMlewX6yxLHgqWxyUpCZNKU-jWL1kJmq3mHHiXvoMsn-0_BwEkog9XIiC7E4wWQuKzJTOn3Kt48KNourLmreZQnrkxZTA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2553,
+      "message": "اینو ممد ساخته. یکی از محمدها، که نمیشناسمش و قرار نیست بدونیم کدوم یکیشونه؛ ولی باهاش کلی خندیدم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e Mohammad\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-08-12T06:45:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HL1PU9qxNg9lD9zWNvOCLr_nldW9EyQfCn4SWl4oM9jO8w4w7Ptz7t8BeREKnFYrQ4A2UtORDhUKGZSqyUkAWJMdVGbV8XTpX0WScQ2qUamSNJzNkvRmI0FEeiUrZ1WK-uw40_wqU8dpaGzyj_zb1PSMtJcF6wQjlDlQ4YaNRbBTY9pk1PkhE8zxUn1-MEXaYwBEa2lYVBzjbFgCYofpTREjEd6BEL8uIcpMeFdorYrDaI_VOrG8ygZi-Xdvkw1osmCNrmrLuDkrD3SMUQuEnTx0o4aSeu7-NY21yXWEwLsUzNGJ7D9IvaQUq9EQ8vGmZG5hUmqq2R3cn7k0JcPowg",
+          "width": 1278
+        }
+      ]
     }
   ],
-  "last_updated": 1786512449
+  "last_updated": 1786517615
 }
