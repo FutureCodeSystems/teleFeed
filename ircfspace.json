@@ -228,7 +228,7 @@
       "date": "2026-08-02T16:56:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -378,7 +378,7 @@
       "date": "2026-08-12T06:06:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -566,5 +566,5 @@
       "sender_name": "IRCF | اینترنت آزاد برای همه"
     }
   ],
-  "last_updated": 1787124821
+  "last_updated": 1787128253
 }
