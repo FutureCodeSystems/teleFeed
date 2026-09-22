@@ -12,7 +12,7 @@
       "date": "2026-09-21T18:55:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 71600,
+      "views": 76300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-09-21T19:20:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63800,
+      "views": 69100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-09-21T19:26:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66800,
+      "views": 73300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-09-21T19:28:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70000,
+      "views": 77500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +60,7 @@
       "date": "2026-09-21T19:43:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63700,
+      "views": 70300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +72,7 @@
       "date": "2026-09-21T20:44:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44400,
+      "views": 55400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +84,7 @@
       "date": "2026-09-21T20:53:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40200,
+      "views": 49400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-09-21T20:56:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41400,
+      "views": 49800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-09-21T21:07:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37700,
+      "views": 45700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-09-21T21:14:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36500,
+      "views": 44100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-09-21T21:25:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 40700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-09-21T21:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 37800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,17 +156,11 @@
       "date": "2026-09-21T21:52:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 34300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WMBGbvIE0g4EZXNSWMAPEfIxbQ6jMV2soAGWrKBX9brdSdo6Va5Zh5frbW-EGt7bDVivysZiOqDnqejAgoGGK-usOjKQHoUaXT8RKGxww3wJjwvKAcX4cUow1_cmtKQwmJHrnJeKCdW0BpSl7zGmbo3S2ql_DREJl5yvJ1ByEDyd_3EyPgSOFA23UhsnyiGne4Q2DQnYkbimibPyLDx6Sio8Bh3V6KLprCrYKkhzjvNxNDTsi-esTh--DFnqhjGih9Knc8LsXlf7XilseyKIqEjfUCYGUdWmeiW1RoNylIDKP3-J1Ez8y8afbkQTk0C6Geym0bF4ymKPJPjHu-pIjg.jpg"
-        }
-      ]
+      "sender_name": "Iran International ایران اینترنشنال"
     },
     {
       "id": 358484,
@@ -174,18 +168,11 @@
       "date": "2026-09-21T22:18:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RFq3DvUUJOCUKxTllaY_K353Iz8qEqYlqyzAqudD6iktoFAOzcQp8myLM2_IIEDok6KP8prwHEgLrkyqwyLhfHb6uShV2x5v6ZG5yZH4u5q66DAseOiQhP1imElvjyIw9mgqTNokWCqwZaBzWdq6F2AxJepyA6pwGedGhVps9E_u3LQZkDM3U7o7DDa7Ap7d17fSc2yxSCEaZgwRbI0mpdpOmSc6nZ6WSFrMRu_wMdJ6NAVGEDAuMetJkLLFNfbN8jEZEoC-5BUCcEGAb2XKVVhhzRXcArsrCHYt74cs7FEB6s-5Dkc0Wgoau-EqLTXRzVYhRxLTb2XEnI5aVeyTvg",
-          "width": 426
-        }
-      ]
+      "sender_name": "Iran International ایران اینترنشنال"
     },
     {
       "id": 358485,
@@ -193,17 +180,11 @@
       "date": "2026-09-21T22:18:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KwWiNw3MIonsNXDquynilDHwzK7GaUoYal2TpmPgPMux1SEvipiOfPQAg4M8Rne0mxQS1VYljWRnaZe3d0fqK2zpbgQTnVvkDborOB-e2o2AlGuSwjrbkg_7AIRXSR9qouAF_jQ6ZqhpsLRRMjImsqLu1gQLM53t4zd4-dfe8g-uIrCOwYUHKXxWui6QAX1XyvVYs_1QPjrs405at2Fe53BNddpCWeSg_b5fY9ur92ctQgStSifYHOmY9jh3rl9N-sjlbglfUS31_iFQqPqi04-wEw8SQfchJYsBB8aeGXODeCViV-CwntqJIy4HQXx48NaL01ktTGlI7-6wHkq3KA.jpg"
-        }
-      ]
+      "sender_name": "Iran International ایران اینترنشنال"
     },
     {
       "id": 358486,
@@ -211,18 +192,11 @@
       "date": "2026-09-21T22:24:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/aZ4huvFXU7o5V_yXxPs2Hgt3FOkUSN3Ml4tNCMI5Qx_Z6YrmMHzfjiOdxF2dvLBeWYGH99VDsSdKIo8FxALNGRyLVYLVfj_pX4-J5K-NAH4wba6sXMil3KJxLwv7Mc-KGvRJnI9MDC76EdcszlFpwqGLdxpYsq_9V47nSQ4PoZSC7Gg6V6BdluCGEYqifNEyOPfD2475j7Orwi_WKIQygd8OgaggMqSIzhjRickOVYA0fDB4kGOCJJj4t34hykkocIXAdNVqzXbKeg2EEMOqxT48a2PsrfZbTtKuHDXPL-BJBU9D9fEw8IGYjygpeiQTg39867MlCkCccQ-Adx73kQ",
-          "width": 426
-        }
-      ]
+      "sender_name": "Iran International ایران اینترنشنال"
     },
     {
       "id": 358487,
@@ -230,18 +204,11 @@
       "date": "2026-09-21T22:27:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ePQ_XkgQ_UEdRlmM1RzbQDv-HicKVOHD2tE3gnToaItKm9eIAqdR-MNonfgfpRurzR7zGqJdJykmD4s7svcnmZqD4ZGDiXYSgbFbQ23WMCcDNkaqKKvBg96G7Q-oE-F_-IEuKbPanORIDpSQHAvNcM3XJ9ha-44DeQ7EFApMpG0Y_vtFSHxUPkz9lkKOwKUQmKYf27HU6hfBXNJc-QfJy-seTXPcI-hpUIsLLP9gTPEl3B-wXFfSNU9YTpFr4oyO6syj7juiz9n4joC5rFHzAGiOEwoDTSNMVu5Bp1V2M8xKYlC6ef9RnkCm2Ag2qMa05FqrJX9z6c-CrD6solR9gA",
-          "width": 240
-        }
-      ]
+      "sender_name": "Iran International ایران اینترنشنال"
     },
     {
       "id": 358488,
@@ -249,18 +216,11 @@
       "date": "2026-09-21T22:30:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jBC3pueB35n0iT1L5lkPwl8Nl5vsbUhGY8_Qv_7x_uTWq3zq1jl_3rSpp0PocxYTyF1gwzLT764l8IV1ALm2RbcKvzTv2tl8AAG-BPY0fgqK3cykZYoKSQe7NIIuECKRD90MZx3kNbPtC2u9b1_ixV0rrm09ySk1l4C1Uhq7iQy75bAzXcnHSlJNGZ0xZI_9kDsRYQjvPL7eVHvuqJHvi8K_uIcjrbMOWH_crHVjNoZAA0Cu6ZceXKgK01jCys3KJrxrRxdUPtd6PKLOrlSTSuzLPqrLluNdQucW4M8Wv7vTYy2IAuPuy7pUsowh7shdkiCzQPFAdfiree-60dSgwQ",
-          "width": 426
-        }
-      ]
+      "sender_name": "Iran International ایران اینترنشنال"
     },
     {
       "id": 358489,
@@ -268,18 +228,11 @@
       "date": "2026-09-21T22:31:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/KwfyGNw5roDgrxnUIV8Yu1TqCRjV_fEIL_HpSG3rPzYm7npZMqpvmujo2QNOOII0JiwT3_o54E68_ZxyRnYBtBwKZrU6kwKo9ACbTxiY8GDEFkricVualR2qJB4jgFsJYOGPHoxQmavODO8wfR3XTU8wfMMJ-faD0PphgF3VhjmwpDNUzusyzL5kweNY1fZ7wTuV2IKjyBG10NEPgnONnG1td4zCkCx45TEBuU8AkrJ6GtlRDKxBUWmmBh0DK93-wWPWVI3fA9UwVYHPYZ1GnT2_GRiXRUjBmap4Fgq76Rcvz7Bk68t45HJQcMUifLI_lw57auEGub3HLpksOpQ6VA",
-          "width": 240
-        }
-      ]
+      "sender_name": "Iran International ایران اینترنشنال"
     },
     {
       "id": 358490,
@@ -287,7 +240,7 @@
       "date": "2026-09-21T22:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +259,7 @@
       "date": "2026-09-21T22:36:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +277,7 @@
       "date": "2026-09-21T22:39:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -343,7 +296,7 @@
       "date": "2026-09-21T22:40:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -362,7 +315,7 @@
       "date": "2026-09-21T22:42:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -381,7 +334,7 @@
       "date": "2026-09-21T22:45:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -399,7 +352,7 @@
       "date": "2026-09-21T22:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -411,7 +364,7 @@
       "date": "2026-09-21T22:51:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -423,7 +376,7 @@
       "date": "2026-09-21T22:52:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -441,7 +394,7 @@
       "date": "2026-09-21T23:02:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9880,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -460,7 +413,7 @@
       "date": "2026-09-21T23:14:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7830,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -478,7 +431,7 @@
       "date": "2026-09-21T23:23:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5910,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -496,7 +449,7 @@
       "date": "2026-09-21T23:37:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2670,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -507,7 +460,133 @@
           "url": "https://cdn4.telesco.pe/file/aorztY2L1TFL9nFl1Nnt-zR_5XEK9xZ0r_J71AAFRMZsyADvSa6MXVQhmSjTBfIzSnTRTsyPeXuKNQ20FiZFTEGymfBoo9Ecb2ljJHc1GY9rJvcDkyxbB-6yyLbNT862krcPYsDzE8GzPWOxdtO-UgO_tPzXCXBTYmcEyjIfsy7PfMFTkuzrCqJ4h1XIFXZKWNYpWR05OJeb0cjXmhYLftef-RST_9yVGxdYOCoAk3LfEthGCBgkfcTx39SB57XPWSn5c-GBpJVI23YNO4Ijdnu-_1--K8NNuTbhgFMwzXZWsnFDu3KKaKXpZkyHBIqAECj0SAfgxVryPTr7kof_mw.jpg"
         }
       ]
+    },
+    {
+      "id": 358503,
+      "message": "نیویورک‌پست گزارش داد یک تابلوی دیجیتال ترافیکی در بزرگراه ۴۰۵ لس‌آنجلس هک شده و نشانی وب‌سایت فارسی‌زبان «گورکن» روی آن به نمایش درآمده است؛ سایتی که نام، تصویر و در مواردی اطلاعات شخصی مخالفان جمهوری اسلامی را منتشر می‌کند.\u003cbr/\u003e\u003cbr/\u003eاین تابلو در نزدیکی وست‌وود، از مراکز اصلی جامعه ایرانی لس‌آنجلس، قرار دارد. اداره حمل‌ونقل کالیفرنیا نمایش پیام غیرمجاز را تایید کرده و گفته است بررسی سوابق دسترسی به سامانه ادامه دارد. هویت عامل یا عاملان این اقدام مشخص نیست.\u003cbr/\u003e\u003cbr/\u003eبرخی گزارش‌ها «گورکن» را مرتبط با سپاه پاسداران دانسته‌اند، اما این ارتباط و همچنین ارتباط هک تابلو با جمهوری اسلامی به‌طور مستقل تایید نشده است.\u003cbr/\u003e\u003cbr/\u003eاین رویداد هم‌زمان با هشدار اف‌بی‌آی درباره هدف‌گیری سایبری مخالفان، فعالان و روزنامه‌نگاران از سوی عوامل مرتبط با حکومت ایران رخ داده است. اف‌بی‌آی اعلام کرده این عوامل از بدافزارهایی برای دسترسی به اطلاعات افراد هدف استفاده می‌کنند و فعالیت مرتبط با یکی از این بدافزارها را به وزارت اطلاعات جمهوری اسلامی نسبت داده است.\u003cbr/\u003e\u003cbr/\u003eگزارش کامل را در وب‌سایت ایران‌اینترنشنال بخوانید\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202609215691\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202609215691\u003c/a\u003e",
+      "date": "2026-09-22T00:03:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qgwvf10HI-TajH4NIyXC9ODZFMyJ4uOo7itdBTOjT3R0hPPh0is_hcxmGr8KvSg0e4LX-XoWVjSLk6mRb8DHz5gQp8IrE1So2eqQ6IAHxn8vELdrQuShWxFeKwg_wfi-jRryNLjvtAugZb6qKXndQcLAhtlmpYhWbnVWjbrRAsNq5pXNKHYJsTc1z1osxgpasuRnkjqf0vcTh2-x10Udy5nXYqgBDgdvbl6jDUH1CwMyY6wWLNn5idf3ij71KPjGSVqfM6Ay2OcTdtyOdZCkcoZ3yk1lTVUB5ThGCBdND3osGk1BNghnOn1plZdYfOlyLU2vOm3Q5ugefVSPx2OOhQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 358504,
+      "message": "فایننشال‌تایمز گزارش داد کشورهای عربی خلیج فارس در پی بازتنظیم روابط با تهران هستند؛ امارات خواهان «رویکردی جدید» و قطر خواستار ایجاد «چارچوب امنیتی» منطقه‌ای با تهران شده است.\u003cbr/\u003e\u003cbr/\u003eمحمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، گفت کشورهای خلیج فارس باید «مسوولانه در کنار یکدیگر عمل کنند» و روابط خوبی با ایران داشته باشند.\u003cbr/\u003e\u003cbr/\u003eانور قرقاش، مشاور دیپلماتیک رییس امارات، نیز بر ضرورت گفت‌وگوی کشورهای عربی با جمهوری اسلامی تاکید کرد و گفت مذاکرات تهران و واشینگتن پیشرفت نکرده است. او افزود گفت‌وگو درباره آینده ثبات منطقه باید میان ایران و کشورهای عربی نیز انجام شود.\u003cbr/\u003e\u003cbr/\u003eفایننشال‌تایمز همچنین نوشت عربستان سعودی از زمان آغاز جنگ، ایده امضای پیمان عدم تعرض میان کشورهای خاورمیانه و ایران را بررسی کرده است.\u003cbr/\u003e\u003cbr/\u003eصنم وکیل، پژوهشگر چتم‌هاوس، گفت کشورهای خلیج فارس دریافته‌اند تضمین امنیتی خارجی دیگر مانند گذشته قابل اتکا نیست و در نبود پشتوانه قابل اتکای آمریکا باید نقش بیشتری در مدیریت امنیت خود داشته باشند.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202609211117\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202609211117\u003c/a\u003e",
+      "date": "2026-09-22T00:35:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/jAxF15t4CZJ4AdDrgM63pwd1B4DlKfd86s_VBliQibmxTvOUfk4vLPyK2vyq3TKkHiHIGgOfF6vDAaQNC4_lu5aFnvrFlfiPsPYYO9lLtnalDx20ZoxyZPEtTrD_e5Ri2TaaOQ-hEBt71XGSs6TWoSbeB8UR0MVKk-8Zc-nimy6P8qPYuwIfdA0bywwmWeA0fTX1-OubxBhiMdVZ4QwOmYVkNDg4HIdDcAIBljQlSZ1Wf3ZlVJIuuV5EKCh4avvMoSrEIW8eIr-goIMnzmfvskyJKkyAwAs9JkTmKqLiKpwqEOB_ecIQA9qmyeVYUXYOYYJMpC_gEvHu2TurE5qUaw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 358505,
+      "message": "ای‌بی‌سی‌نیوز گزارش داد گروهی از قانون‌گذاران دموکرات آمریکا از دونالد ترامپ خواستند در دیدار چهارشنبه با شی جین‌پینگ درباره حمایت‌های گزارش‌شده چین از جمهوری اسلامی در جنگ ایران گفت‌وگو کند.\u003cbr/\u003e\u003cbr/\u003eاین قانون‌گذاران در نامه‌ای با استناد به گزارش وال‌استریت‌ژورنال نوشتند ارزیابی آمریکا نشان می‌دهد ارایه تصاویر ماهواره‌ای از سوی یک شرکت چینی به حمله جمهوری اسلامی به یک پایگاه هوایی آمریکا در اردن کمک کرده است؛ حمله‌ای که سه سرباز آمریکایی در آن کشته شدند.\u003cbr/\u003e\u003cbr/\u003eآنها از ترامپ خواستند نقش چین در حمایت از تهران را محکوم کند. جان مولینار، نماینده جمهوری‌خواه، نیز همکاری گزارش‌شده پکن با ارتش جمهوری اسلامی را «معادل یک اقدام جنگی علیه ایالات متحده» خواند.\u003cbr/\u003e\u003cbr/\u003eوزارت خارجه آمریکا پیش‌تر چهار نهاد مستقر در چین را به دلیل ارایه تصاویر ماهواره‌ای مرتبط با حملات جمهوری اسلامی تحریم کرده بود. چین حمایت شرکت‌های دولتی خود از تلاش‌های جنگی تهران را رد کرده است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202609225454\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202609225454\u003c/a\u003e",
+      "date": "2026-09-22T01:16:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/m5EJ1Ty20-S_EdnTLOt0fz22b5SDfRoWm4RVSmXmFcd9tS3HDiBAaLb-5OJ0IvCBzJSgPli-vFS63_kpLpcTTEYZ-ojqoplkGJjHqreQ-h6kWLgSEq_Ao0_FQQmN0_mqt0jt3got4oXuv997IibvLFefaSVM7IiPCsAKDW62l1G4ep7Jt7Ety3AhtQev23kXNb7IGsKeMVL0N27qAVCA9ohkqUbGNpXil2nkWvKW5xXkUtrLupJ2qFOy2jxR32ny_fDRH5t02yQq7vgUwG21sG-4qh1-cLw3Qw88xvdpW-1YhLVUt2XVxuF7wNr3gmvsHzM4-gI4tp2euYUk_mccXA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 358506,
+      "message": "امانوئل مکرون، رییس‌جمهوری فرانسه، در شبکه اجتماعی ایکس از دیدار خود با دونالد ترامپ، رییس‌جمهوری ایالات متحده، در نیویورک خبر داد و نوشت: «تصمیم گرفتیم برای کاهش تنش‌ها در بازارهای انرژی، با حفاظت از زیرساخت‌های حیاتی در خاورمیانه و آزادی کشتیرانی در تنگه هرمز، به‌طور مشترک اقدام کنیم.»\u003cbr/\u003e\u003cbr/\u003eمکرون افزود: «ما تلاش‌های خود را برای دستیابی به توافقی بر سر توقف حملات به زیرساخت‌های انرژی و زیرساخت‌های غیرنظامی اوکراین هماهنگ خواهیم کرد.»\u003cbr/\u003e\u003cbr/\u003eاو تاکید کرد: «باید از غیرنظامیان محافظت شود و باید هرچه سریع‌تر مذاکرات جدی درباره شرایط برقراری صلح میان روسیه و اوکراین را آغاز کنیم.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202609222271\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202609222271\u003c/a\u003e",
+      "date": "2026-09-22T01:25:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/m6fjqHpS2W5a31jcOF2z0ILWzRm2pjnzfXp7skNveMUAXyJn713eLVRBbiGGxIVAKykegdzD_C35vyHRuz--HLLYjTZWC-kPUtxli258RYxVOX1HdRN_urtPGXG5wepxeUpACQaJQbE3wz7KIX04qga4ugOJTrTv2VV7Q1kBcHPDjQA8gWF5IrS9m_VbpPUYDDHqpyIjBQQUOJBmdoG_oxAAb0UO9_BXByqPcxjICu0h1zHsNE7P27NYF7PuUTagQfDcFowBYNe-r3CIeTOgiDQKGfHxhtUS-4mr1lMqXr29e_g87Niyq5AXCU2O1ADBaCE_JChiUZssOkqo539X2Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 358507,
+      "message": "بلومبرگ به نقل از منابع آگاه گزارش داد دادستان‌های فدرال آمریکا در حال بررسی احتمال نقض تحریم‌های جمهوری اسلامی از سوی بایننس هولدینگز، گرداننده بزرگ‌ترین صرافی رمزارز جهان، هستند.\u003cbr/\u003e\u003cbr/\u003eبه گفته منابع بلومبرگ، دفتر دادستانی فدرال منهتن بررسی می‌کند که آیا بایننس با جلوگیری نکردن از برخی معاملات در پلتفرم خود، تحریم‌ها را نقض کرده و آگاهانه اجازه انجام این معاملات را داده است یا خیر. بخش کیفری وزارت دادگستری آمریکا نیز در این تحقیقات مشارکت دارد.\u003cbr/\u003e\u003cbr/\u003eبلومبرگ نوشت این تحقیقات ممکن است بدون اعلام اتهام رسمی پایان یابد و هنوز مشخص نیست دادستان‌ها بر چه تراکنش‌هایی تمرکز کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eبایننس اعلام کرد در قبال نقض تحریم‌ها «سیاست مدارای صفر» دارد و با نهادهای مجری قانون همکاری می‌کند.\u003cbr/\u003e\u003cbr/\u003eاین شرکت حدود سه سال پیش پذیرفت قوانین بانکی و تحریمی آمریکا را رعایت نکرده و با پرداخت ۴.۳ میلیارد دلار جریمه موافقت کرد.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202609229944\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202609229944\u003c/a\u003e",
+      "date": "2026-09-22T02:29:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hWLAfTyExxm91aVkXx1Vfftj0uNLzfizB9IFfYsKVpLbH8dUedWMwDpW0iQZfjY4PNdsPWzMMRFNMS1ByTSkw4VvcN_1OQJkLBofvbA8bU_UnydSqHwmpRdAaZW75Ao1fjgBygfYZaYznBz0TS1wKa8J4gbyJqlJtHEfrT9jMcQasC1jBfcQv9YUYF-ZnUKOu-D8WAhy30knkYIctDnOYmx5F-TcLtlVTC2sMKDpvGJ2UsuVtzXu51plM8CkNk3oQ8LBCE-byG7HrUdbXdy1VUTOVbbG0L-o4FQwitC3ztSpZtYOlYOYNJkP7GWyABeOkXqQIROTgZ6528wy1mtdPg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 358508,
+      "message": "روزنامه شرق در گزارشی نوشت: «قدمت وعده‌های تامین مالی چین و روسیه برای طرح‌های زیرساختی ایران به دهه‌ها می‌رسد، اما تاکنون هیچ‌یک از این وعده‌ها محقق نشده است.»\u003cbr/\u003e\u003cbr/\u003eبه نوشته این روزنامه، «چین و روسیه به بهانه‌های مختلف، از جمله تحریم، از سرمایه‌گذاری یا اعطای تسهیلات برای تکمیل طرح‌های زیرساختی ایران خودداری کرده‌اند.»\u003cbr/\u003e\u003cbr/\u003eشرق نوشت: «پیش از این، حتی بحث تهاتر نفت با چین برای پروژه‌های عمرانی مطرح شد» و به نقل از هوشنگ بازوند، معاون وزیر راه و شهرسازی، افزود: «هیچ‌کدام از این وعده‌ها محقق نشده و حضور چین یا روسیه در پروژه‌های مهم زیرساختی کشور پس از دهه‌ها وعده و وعید، مبهم است.»\u003cbr/\u003e\u003cbr/\u003eاین مقام جمهوری اسلامی به شرق گفت: «چینی‌ها به بهانه تحریم، از سرمایه‌گذاری یا ارایه خط اعتباری به پروژه‌های زیرساختی ایران سر باز زده و موضوع تهاتر را نیز نپذیرفته‌اند.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202609225961\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202609225961\u003c/a\u003e",
+      "date": "2026-09-22T02:43:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Et2yvtaEU4-s9Bq54-9dcX4bMZ9A8W1rP1rAuLFVlg_e48JJXFFNXjzzkI4uzrihyLslo3WoSBZS2a21ake3lTeI2KuErhgcH9aZtYMahOyq4W0FnJ3_232tQtoupJBOHJtpuRTGVN0d5HUhAAkh3rGHIcs4Zr_aEHzgGhUumRnX-kcGJpRrdoG0wViYYwMbBxMcM2uQtAdNZxSqqlAS0QWRVG8oBZbgfYJOloN01Jd5ebXPU2SrkHqTy3HD7Y1wWk1QxhfnxitYm6FVl6WkX8QK4HkNh9rhz7_HthAfObnXsa12Gy0chs5Zk6V47P6q2Lb0SUhfIXO7JAIil8vBlg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 358509,
+      "message": "سایت «قلمرو رفاه» به نقل از جدیدترین گزارش مرکز آمار ایران نوشت: «اقتصاد ایران در بهار سال جاری نسبت به فصل مشابه سال قبل، رشد منفی ۱۰.۱ درصدی داشته که بخش عمده آن ناشی از انقباض بخش صنعت و نفت است.»\u003cbr/\u003e\u003cbr/\u003eبه نوشته قلمرو رفاه، رشد فصل بهار سال جاری با منفی ۱۰.۱ درصد، پایین‌ترین رقم در ۱۵ سال اخیر بوده است. نرخ تورم نیز طی چند ماه اخیر رکورد ۸۰ ساله خود را درنوردیده است.\u003cbr/\u003e\u003cbr/\u003eاین سایت نوشت به جز رشد ۲.۳ درصدی گروه کشاورزی، صنایع و معادن رشد منفی ۱۴.۷ درصدی و خدمات رشد منفی ۴.۸ درصدی داشته‌اند.\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، بخش نفت با رشد منفی ۲۶.۴ درصدی بیشترین انقباض را تجربه کرده و توزیع گاز طبیعی نیز رشد منفی ۲۱.۳ درصدی داشته است.\u003cbr/\u003e\u003cbr/\u003eقلمرو رفاه همچنین نوشت مصرف نهایی خانوارها در بهار امسال نسبت به بهار سال قبل چهار درصد کاهش یافته که نشان‌دهنده انقباض سفره مردم، افت قدرت خرید واقعی و کاهش تقاضای کل است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202609228030\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202609228030\u003c/a\u003e",
+      "date": "2026-09-22T02:55:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/n7PcukzMlJnvKXoMYG17QkJub1mhTuHYJ_ddt1QoHGGfIUO2YwoOtq7_jhmseH3hi_T_mOz_qp1Xjpu1jdsw5VdB4LHsyB97V_ITLEqfWBSf4Fa_4LZSFLvylehQFBUJAAuEYM0JJutfqr2ggCMC4S8AMHk1OQTjk2muC0aEG7EVSFYqdzpiS12Q5Wmo0nYAa1hEVFLdH0NISwxzKKVdncu_jf9rpQVskK9IuPTCARWy8pgWr_Skeb8IpXGQN44x_zif6zAIutvLScJ4rwfke2b-l0_ajlPjrioboAszhUcMeaKjPPxwMDQzhbHwuBNhRrGXfaEQnuRxxBKSc64Z7w.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790034442
+  "last_updated": 1790045955
 }
